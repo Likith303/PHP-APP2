@@ -66,7 +66,7 @@
             <div class="hero-img-overlay">
               <p class="para">
               
-              <p class="para">Late Sri. B.M.Sreenivasaiah</p>
+              <p class="para">Late Sri. Bharat J</p>
               <p class="para">FOUNDER B.M.S. EDUCATIONAL TRUST</p>
             </div>
           </div>
